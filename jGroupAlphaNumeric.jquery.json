@@ -1,6 +1,6 @@
 {
     "name": "jGroupAlphaNumeric",
-    "version" : "0.1",
+    "version" : "0.2",
     "title" : "jGroupAlphaNumeric",
     "author" : {
     "name" : "Kreshnik Hasanaj",
@@ -16,5 +16,10 @@
     ],
     "dependencies" : {
         "jquery" : ">=1.5"
-    }
+    },
+    "keywords": [
+        "group",
+        "jquery",
+        "groupby"
+    ]
 }

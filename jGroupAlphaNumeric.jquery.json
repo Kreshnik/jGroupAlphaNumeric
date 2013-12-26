@@ -1,0 +1,20 @@
+{
+    "name": "jGroupAlphaNumeric",
+    "version" : "0.1",
+    "title" : "jGroupAlphaNumeric",
+    "author" : {
+    "name" : "Kreshnik Hasanaj",
+        "email" : "kreshnik.hasanaj@gmail.com",
+        "url" : "http://selftaughtgeek.wordpress.com"
+    },
+    "description" : "Group elements into alpha numeric groups.",
+    "licenses" : [
+        {
+            "type": "GPLv2",
+            "url": "http://www.gnu.org/licenses/gpl-2.0.html"
+        }
+    ],
+    "dependencies" : {
+        "jquery" : ">=1.5"
+    }
+}

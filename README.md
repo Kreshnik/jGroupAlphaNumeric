@@ -1,6 +1,6 @@
 #jGroupAlphaNumeric
 
-###This plugin helps you group items into alpha numeric groups, to make use of it you have to specify one or more characters on which the items will be grouped. 
+###This plugin purpose is to helps you group items into alpha numeric groups.
 
 
 #####You have to specify for each element you want to group a data attribute named as default "group-character"

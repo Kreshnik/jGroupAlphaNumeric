@@ -1,15 +1,15 @@
 if( typeof Object.create !== 'function') {
     Object.create = function(obj){
-        function F(){};
+        function F(){}
         F.prototype = obj;
         return new F(); 
-    }
+    };
 }
 (function ( $, window, document, undefined ) {
     var groupAlphaNumeric = {
         init: function(options){
             var self = this;
-            self.elements;
+            self.elements = null;
             self.groups = [];
             self.finalGroups = [];
             self.options = $.extend({}, $.groupAlphaNumeric.options, options);
